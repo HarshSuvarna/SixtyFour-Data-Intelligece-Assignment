@@ -1,0 +1,7 @@
+fastapi
+sqlalchemy
+os
+jwt
+dotenv
+datetime
+uvicorn
